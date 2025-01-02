@@ -8,7 +8,7 @@ env:
 artifacts:
   files:
     - "**/*"
-  # base-directory: "build_output"
+  base-directory: "build_output"
   name: build_output
 
 phases:
